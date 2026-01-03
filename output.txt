@@ -1,0 +1,25 @@
+------------------------------------------------------
+|                    FLIGHT TICKET                    |
+------------------------------------------------------
+
+
+------------------------------------------------------
+| Personal Details 			
+| 
+| First Name  : Sufyan
+| Last Name  : Ali
+| Passport Number  : Eu2345
+|
+| Flight Details 
+| 
+| Flight Type  : one way
+| Departure    : Islamabad Pakistan
+| Distination  : Q
+| Flight Date  : 02/10/2025
+| Seat Number  : 1A
+| Seat Category:  Economy
+| Weight Allow : 10 KG HAND CARRY + 40 KG
+| Meal         : Included 
+| Ticket Price : 110000 PKR 
+| Seat Booked  : Adult 12+ (1) Child : (0) Infant (0)
+|-----------------------------------------------------
